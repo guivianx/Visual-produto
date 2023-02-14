@@ -1,5 +1,6 @@
 @media (max-width: 660px) {
     main {
+        height: auto;
         width: 340px;
         box-shadow: none;
         flex-direction: column;
